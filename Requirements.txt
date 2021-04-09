@@ -1,9 +1,4 @@
-﻿Requirements : 
-
-
 Following are the required libraries in order to run the code in MIDAS_Task2_Vibhuti.ipynb:
-
-
 1. Python 3
 2. keras==2.4.3
 3. numpy==1.19.5
